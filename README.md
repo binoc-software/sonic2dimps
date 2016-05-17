@@ -22,5 +22,7 @@ However, any new code or data diverging from the orginal rom is copyright Binary
 
 #Contributions
 
-Would you like to help bring Sonic 2 Dimps Edition forward? Got an idea that may be super cool? Then fork and file a pull request and you just might see your code in the game!
+Would you like to help bring Sonic 2 Dimps Edition forward?
+Got an idea that is way past cool?
+Then fork and file a pull request and you just might see your code in the game!
 
