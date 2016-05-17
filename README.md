@@ -1,4 +1,4 @@
-# sonic2dimps
+# Sonic 2 Dimps Edition
 The OFFICIAL repository for the Sonic 2 Hack known as Sonic 2 Dimps Edition
 
 Sonic 2 Dimps Edition (Episode 1) is a hack on Sonic 2 to give it a Dimps-alike treatment because SEGA knows what the fans want ;)
