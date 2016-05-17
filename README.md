@@ -11,6 +11,8 @@ There is speculation that SOTI (now known as Spanner) may be attempting to reins
 
 We do acknowledge the effort and prior foundation work done by SOTI, and thank him, but we will not reliquish control or ownership of the project to him or anyone else as he has previously agreed to and has given up any claim to this project when he gave us the source code.
 
+See: http://info.sonicretro.org/index.php?title=Sonic_2_Dimps_Edition&oldid=172259
+
 Accept no substitutes! This IS a Binary Outcast Project and has been since 2011.
 
 # Licensing
